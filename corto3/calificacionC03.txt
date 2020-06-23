@@ -1,0 +1,7 @@
+        Rubrica
+            Transmision de archivos:    12.0/20
+            Grabar audio:               16.0/20
+            Reproducir audio:           16.0/20
+            Comunicacion Cliente/serv:  16.0/40
+        *****************************************
+            Total:                      60.0/100
